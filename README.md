@@ -1,9 +1,11 @@
 # AI-IMDBReviewClassifier
 
-(Machine Learning - Labelled Data)
+(Machine Learning - Labelled Data - Naive Bayes Score)
 This program is an introductory exerciser to Machine Learning. In short, the program scrapes IMDB for The Office Episode reviews, or any show/movie can be given. Then from this collected DataSet, its determined if it was a good or bad review by checking the rating the user gave (>= 8 stars is good), hence this is labelled data. The text/wording used in a review is organized into a category of good or bad based on classification of the review.
 
-Now that certain words in both classes (good and bad review) have been collected from the labelled data, a Vocabulary (word frequency) then The classification Model (Compute the frequency and its conditional probability from the Vocabulary) can be build. Now a simple Machine Learning model has been trained with labelled data, new reviews are tested against the model to classify if they are good or bad reviews. The results of the model are outlined and detailed in the text files of the Repo.
+Now that certain words in both classes (good and bad review) have been collected from the labelled data, a Vocabulary (word frequency) then The classification Model (Compute the frequency and its conditional probability from the Vocabulary) can be build. Now the simple Machine Learning model has been trained with labelled data, new reviews are tested against the model to classify if they are good or bad reviews. Teir scores are calculated with the Naive Bayes Score.
+
+Finally, the results of the model are outlined and detailed in the text files of the Repo. The quality of the model is measured by recall, precision, accuracy and f-measure.
 
 ## Notes:
 This assignment was made using jupyter notebooks which can be installed using:
