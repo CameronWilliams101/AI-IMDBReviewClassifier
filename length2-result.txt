@@ -1,0 +1,1049 @@
+No.1  Needed a whole new script for the US version.
+-332.83362842586035, -337.0066622947579, positive, negative, wrong
+No.2  S1 E1: Pilot
+-797.6521311991557, -801.3913283176449, positive, positive, right
+No.3  Great show, but awkward introduction
+-62.30799966764066, -61.41688170468097, negative, negative, right
+No.4  Pilot (#1.1)
+-188.21423460230594, -191.79423275033147, positive, negative, wrong
+No.5  The Office rewatch
+-64.5607744518486, -64.84752329017478, positive, positive, right
+No.6  The Start of a Legacy
+-386.7087032766092, -380.30738861266997, negative, negative, right
+No.7  He put my stuff in jello again
+-128.80237909851527, -139.91283106561565, positive, negative, wrong
+No.8  The office a love
+-54.05423199612657, -58.031536077951515, positive, positive, right
+No.9  Better version of the British office's pilot
+-131.1349586978058, -127.77117443002034, negative, negative, right
+No.10  Oh How We Have Changed - or Have We?
+-340.7511679718409, -351.582466699641, positive, positive, right
+No.11  S1 E2: Diversity Day
+-256.1592083646338, -272.66189101793185, positive, positive, right
+No.12  Diversity Day (#1.2)
+-281.26941189103337, -303.39840799960785, positive, positive, right
+No.13  Wait
+-34.63077495018261, -37.33546997275803, positive, negative, wrong
+No.14  "Well, I'm not dead. I'm the lion. You're dead."
+-1028.1800079515444, -1047.8808251118492, positive, positive, right
+No.15  Funny
+-45.98940575498848, -47.477216710582304, positive, positive, right
+No.16  S1 E3: Health Care
+-353.1395002791724, -372.3520714489469, positive, positive, right
+No.17  Often lacklustre but with flashes of brilliance
+-819.5552233066053, -842.4984260013055, positive, negative, wrong
+No.18  The First Chaotic Episode
+-181.88116099594984, -189.1124953393798, positive, negative, wrong
+No.19  The Alliance (#1.4)
+-399.07363577443306, -430.839520801318, positive, positive, right
+No.20  Let's go to the warehouse...
+-709.6677942656682, -734.365663677722, positive, positive, right
+No.21  Hahah
+-55.75450716783465, -59.38011572617071, positive, positive, right
+No.22  Season 1 finished
+-44.828879219641465, -47.5492312876892, positive, positive, right
+No.23  The end of the inaugural season
+-788.2536224829965, -819.9043512361634, positive, positive, right
+No.24  Season One
+-2031.4423222814564, -2060.357685641467, positive, positive, right
+No.25  Funniest Moment is when...
+-51.97147655063067, -57.92729061135448, positive, negative, wrong
+No.26  Not Memorable
+-110.50387125116285, -108.57086769973283, negative, negative, right
+No.27  Awkwardness Makes It Funny
+-352.8889018136141, -375.13714372250706, positive, positive, right
+No.28  The Turning Point
+-209.29513033246846, -218.2535075488607, positive, positive, right
+No.29  The single greatest comedy episode ever!
+-275.7499368325092, -291.3650418463798, positive, positive, right
+No.30  When the U.S version really became the U.S version.
+-431.1768478113056, -437.9730889290631, positive, positive, right
+No.31  Funny, inappropriate? That's what she said
+-494.2976910490639, -518.2349959104517, positive, positive, right
+No.32  That's what she said
+-85.77866924541827, -88.08170357422006, positive, positive, right
+No.33  Might be the best episode so far
+-254.74593296682903, -260.68413016459664, positive, positive, right
+No.34  Re-watching in 2021...
+-64.6681900887063, -66.23057292311573, positive, positive, right
+No.35  'Ryan started the fire!'
+-147.80161105574817, -156.64417847028494, positive, positive, right
+No.36  Fire
+-53.202481562937336, -57.8625742966348, positive, positive, right
+No.37  Fire In The Office
+-197.5936538215874, -217.24601221130877, positive, positive, right
+No.38  Halloween (#2.5)
+-179.04527119543962, -193.41943582057158, positive, positive, right
+No.39  Completing Michael
+-139.17600251376717, -145.11618103625094, positive, positive, right
+No.40  "I want people to be afraid of how much they love me."
+-121.96633398024268, -126.15853170351765, positive, negative, wrong
+No.41  The Fight (#2.9)
+-116.84098430288034, -124.64819293730658, positive, positive, right
+No.42  Jim Looks So Handsome
+-83.69282764558261, -90.00183547321744, positive, positive, right
+No.43  The Client (#2.7)
+-123.6969186511906, -136.89304519925392, positive, positive, right
+No.44  7 siii
+-13.742233005111075, -16.794547640705694, positive, positive, right
+No.45  Performance Review (#2.8)
+-268.48980778005154, -298.6152458517444, positive, positive, right
+No.46  Dwight never
+-35.597151786554186, -40.542016892413386, positive, positive, right
+No.47  Not memorable
+-92.37019571124894, -92.46012348205257, positive, negative, wrong
+No.48  "Detective Michael Scarn!"
+-120.7471299297218, -133.99837963864528, positive, positive, right
+No.49  SAIL AWAY WITH ME
+-68.30729403349385, -72.99006181480021, positive, positive, right
+No.50  Christmas Party (#2.10)
+-279.7893180993686, -306.8948264579301, positive, positive, right
+No.51  Secret Santa Turns Into White Elephant; "Wild" Partying
+-825.0872078917632, -881.850308947623, positive, positive, right
+No.52  "Never, ever, ever give up."
+-112.90357965126263, -118.4839737449827, positive, positive, right
+No.53  Booze Cruise (#2.11)
+-272.0218543656189, -287.38852519737634, positive, positive, right
+No.54  Cringiest episode ever
+-75.495369509863, -78.41306199847875, positive, positive, right
+No.55  FEELINGS LITS NOT
+-30.721004117192034, -34.007916883998064, positive, positive, right
+No.56  Who cares what the other guy says
+-218.94964470689666, -228.3992006254456, positive, positive, right
+No.57  The Injury (#2.12)
+-250.893111522072, -272.5745783313722, positive, positive, right
+No.58  How.. how the grill ??
+-18.174239572089977, -18.914811176905786, positive, positive, right
+No.59  Foot Burn, Concussion
+-1054.1241770787647, -1133.7116897025508, positive, positive, right
+No.60  POOR JIM
+-44.16596613069447, -42.746601400706005, negative, positive, wrong
+No.61  The Carpet (#2.14)
+-251.77619031234974, -271.27989563707996, positive, positive, right
+No.62  Episode of the legendary image
+-61.2603646144379, -65.56326958007625, positive, positive, right
+No.63  Immature
+-156.85872420471853, -155.8219519990291, negative, negative, right
+No.64  Smelly Thing On Carpet
+-602.058900083805, -643.1070613732063, positive, positive, right
+No.65  Jan Has "Women In The Workplace" Meeting, Michael Has Meeting In Warehouse
+-1299.7942819238988, -1382.6312179357228, positive, positive, right
+No.66  CFO Meeting In NY; Gifts In The Office
+-354.1729735833948, -385.521783100197, positive, positive, right
+No.67  Jajaja jan jaja
+-18.906831234753124, -20.880471442186938, positive, positive, right
+No.68  "It's me. I'm the bobble head"
+-93.54717913749033, -99.72590340135152, positive, negative, wrong
+No.69  Valentine's Day (#2.16)
+-200.3270564752562, -223.91209169779785, positive, positive, right
+No.70  Dwight's Speech (#2.17)
+-197.62800461620077, -216.59122298462978, positive, positive, right
+No.71  Michael is an enabler with human flaws
+-389.155224218445, -413.37004263982504, positive, positive, right
+No.72  Wow I did not see that coming
+-455.61476035467524, -469.8366325836905, positive, positive, right
+No.73  Mussolini
+-446.08489299677615, -478.19127731425056, positive, positive, right
+No.74  I was actually crying while watching this one
+-215.25878692012733, -229.2425157911415, positive, positive, right
+No.75  Crazy Episode
+-306.15128669797946, -316.5726689513646, positive, positive, right
+No.76  Michael's Birthday (#2.19)
+-178.55009053335817, -189.36280965557978, positive, positive, right
+No.77  "So that was probably my worst birthday."
+-133.62638990589187, -141.36929420218416, positive, negative, wrong
+No.78  Why the temp exactly ??
+-21.362326238138294, -24.152672586389958, positive, positive, right
+No.79  Dwight Schrute: Volunteer Sheriff's Deputy
+-79.87056661095438, -83.93874807433495, positive, positive, right
+No.80  Drug Testing (#2.20)
+-225.16113359622372, -242.498757080105, positive, positive, right
+No.81  Really funny
+-217.99444401320267, -225.83254496670438, positive, positive, right
+No.82  An absolute classic
+-85.63786109169844, -91.17286454263967, positive, positive, right
+No.83  Reading Out Complaints + Picture Day
+-480.61553258241463, -509.4314992863265, positive, positive, right
+No.84  Heart hurt
+-69.0448065761906, -75.03629071049306, positive, positive, right
+No.85  The Absolute Best Episode Of The Office
+-739.968923986355, -771.0587001775978, positive, positive, right
+No.86  The best episode in the entire show
+-319.1904590717138, -349.9263146186375, positive, positive, right
+No.87  Pam and Jim
+-310.0602929303861, -320.07020145665206, positive, positive, right
+No.88  The greatest moment in television history
+-337.0019192691356, -356.27301972537356, positive, positive, right
+No.89  The Pinnacle of TV
+-137.04939915850522, -144.80881014262425, positive, positive, right
+No.90  Unmemorable... except for the end.
+-294.3011030899132, -306.77055326091426, positive, positive, right
+No.91  I hope they win an Emmy for this one.
+-333.2457219008969, -339.15717154831214, positive, positive, right
+No.92  One of the top 5 best episodes of the series.
+-468.5143452259723, -483.4584748271657, positive, positive, right
+No.93  Still my favorite Episode - ever!!
+-132.34904456781294, -135.85798527128713, positive, positive, right
+No.94  What a great enterance for a New season
+-20.466239957899422, -24.32055345902912, positive, positive, right
+No.95  Discomfort at its finest
+-71.36382631092481, -74.53885749875548, positive, positive, right
+No.96  Updates and Gayness
+-669.6087551547313, -711.3910601332028, positive, positive, right
+No.97  The Convention (#2.2)
+-138.51456149243108, -153.15983307311515, positive, positive, right
+No.98  Nothin gets forever
+-41.222978786395004, -42.6034494100945, positive, positive, right
+No.99  The Coup (#3.2)
+-154.97396747235032, -170.48474382744666, positive, positive, right
+No.100  It's emotionally hard to lose someone.
+-214.12073054275578, -214.70489423753233, positive, positive, right
+No.101  Bird Funeral
+-142.73337214038756, -153.00983878494432, positive, positive, right
+No.102  The most boring and annoying episode
+-150.02083009185296, -153.75842930262544, positive, negative, wrong
+No.103  a top 5 Office episode
+-911.7229676209082, -967.6635328452734, positive, positive, right
+No.104  Poor Stanley
+-64.44058010123157, -70.02654012376931, positive, positive, right
+No.105  Pretzels and Farm
+-163.78243905340432, -180.5725585917484, positive, positive, right
+No.106  Diwali (#3.6)
+-170.66204629659146, -187.17844905177918, positive, positive, right
+No.107  Indian
+-633.2941203244773, -674.0093201644313, positive, positive, right
+No.108  Best Episode Yet
+-392.9148286047717, -412.2708621041008, positive, positive, right
+No.109  A surprisingly plot driven episode
+-340.29019767697326, -359.752584634689, positive, positive, right
+No.110  Pretty Funny, but Not Great
+-585.9612795162393, -616.2165326226731, positive, negative, wrong
+No.111  The Merger (#3.8)
+-209.5563081474132, -228.0554837162583, positive, positive, right
+No.112  Top Tier comedy level at its finest
+-145.44793048262304, -141.2563922248318, negative, positive, wrong
+No.113  The Convict (#3.9)
+-419.07911803570585, -443.0044091875764, positive, positive, right
+No.114  Ex-Prisoner
+-457.4531075108443, -485.58923278902796, positive, positive, right
+No.115  PRESON MIKE
+-50.11125743557534, -54.129677957104086, positive, positive, right
+No.116  Extended runtime
+-42.644118131569286, -45.31903733532813, positive, positive, right
+No.117  Secret Relationship With The Boss
+-818.2159464008276, -886.672342347958, positive, positive, right
+No.118  -_-RESPECT -_-
+-83.23906896879801, -92.30340891416516, positive, positive, right
+No.119  Traveling Salesmen (#3.12)
+-307.74568821796515, -333.5658583167419, positive, positive, right
+No.120  Going Out For Sales
+-685.5888535771137, -737.9364721153435, positive, positive, right
+No.121  Andy is such a bad character
+-69.2527265892581, -70.37562988576423, positive, negative, wrong
+No.122  The Return (#3.13)
+-599.4016180599808, -652.8501311332685, positive, positive, right
+No.123  Andy Is Annoying, Dwight Works At Staples
+-578.7743157379987, -616.4639402631927, positive, positive, right
+No.124  The Guys Don't Like Strippers
+-1767.3770585075679, -1903.192472161772, positive, positive, right
+No.125  Hardest I've laughed in a long time
+-141.59818257449993, -149.05221585336486, positive, positive, right
+No.126  Welding
+-38.70071737854447, -39.98020713301548, positive, positive, right
+No.127  What the office means to Michael
+-269.45709244798536, -293.80656713861043, positive, positive, right
+No.128  Epic Burst out
+-343.3614905447808, -355.74473444722634, positive, positive, right
+No.129  Nice Work Dwight
+-122.61421209261282, -133.15163337801474, positive, positive, right
+No.130  Michael
+-84.7711647947771, -93.82995478266491, positive, positive, right
+No.131  Guest Speaker, Bat In The Office, and Pam's Art
+-406.9745922216153, -435.2458087601242, positive, positive, right
+No.132  Love Is Hard
+-673.3321096615018, -734.0747509239798, positive, positive, right
+No.133  The Negotiation (#3.18)
+-375.729938611687, -416.37379864985445, positive, positive, right
+No.134  Pam
+-260.2820911666871, -275.67854281543424, positive, positive, right
+No.135  Slight dip in quality
+-98.47880453333359, -97.50014700009613, negative, negative, right
+No.136  How to deal with workplace violence.
+-172.23789070596834, -175.48825217231467, positive, positive, right
+No.137  Safety Training (#3.19)
+-306.8869781811715, -332.02308446783053, positive, positive, right
+No.138  Product Recall (#3.20)
+-348.42752897465846, -375.0846885812878, positive, positive, right
+No.139  Watermark
+-479.61999200856417, -510.9060160884757, positive, positive, right
+No.140  Women's Appreciation (#2.21)
+-276.10252321415703, -296.8730090072112, positive, positive, right
+No.141  Beach Games (#3.22)
+-267.9282776644249, -295.9908657344178, positive, positive, right
+No.142  Beach Day
+-1081.7364190263079, -1144.8107028732845, positive, positive, right
+No.143  The Job (#3.23)
+-507.88466434535513, -549.94679030666, positive, positive, right
+No.144  Competition For The Corporate Job
+-439.35492505468744, -480.7678252876239, positive, positive, right
+No.145  Spoiler
+-40.34982489696961, -39.675709257381016, negative, negative, right
+No.146  Fun Run (#4.1)
+-309.04750948465113, -326.2051751218988, positive, positive, right
+No.147  Still a very hilarious funny episode - one of my favorites
+-312.4586212256174, -325.80977882525775, positive, positive, right
+No.148  Office goes from Greatness to Blandness in fourth season opener
+-726.1852709197925, -743.3464971077593, positive, negative, wrong
+No.149  WHERE ARE THE TURTLES?!?!?!??
+-314.28665659865186, -330.7272714292398, positive, positive, right
+No.150  Toby...
+-401.4137572233332, -410.10995644643555, positive, positive, right
+No.151  The last 2 min...
+-155.5440308019692, -164.42286568722415, positive, positive, right
+No.152  Launch Party (#4.3)
+-252.25996111632338, -281.22785232815187, positive, positive, right
+No.153  Dissapointing.
+-259.0867645852898, -255.4495895891362, negative, negative, right
+No.154  Relationships Progressing
+-532.2309030497784, -556.1700908131465, positive, positive, right
+No.155  Money (#4.4)
+-356.10923817743975, -383.1233839123304, positive, positive, right
+No.156  A wonderful episode.
+-371.2020507649222, -397.4656354831956, positive, positive, right
+No.157  Local Ad (#4.5)
+-189.76343209655312, -214.84242115876714, positive, positive, right
+No.158  New course?
+-450.0244438681018, -461.3263687790662, positive, positive, right
+No.159  Survivor Man (#4.7)
+-310.11457897103463, -323.6846898383317, positive, positive, right
+No.160  It's one of those episodes where you really get to know more about Michael
+-667.399307266826, -722.9042562995257, positive, positive, right
+No.161  Jan vs. Dunder Mifflin
+-316.7677042936755, -337.5449033074179, positive, positive, right
+No.162  The best "Office" episode, ever
+-475.71911456853104, -495.3483694025479, positive, positive, right
+No.163  The soiree from Hell
+-279.58709943834947, -291.2335183051856, positive, positive, right
+No.164  Absolutely hilarious!!
+-468.1738736996689, -490.8741160889404, positive, positive, right
+No.165  HILARIOUS!!
+-44.999778165830726, -50.28048775135035, positive, positive, right
+No.166  The Best Sitcom Episode EVER made!
+-258.22784404743135, -267.6416007108313, positive, positive, right
+No.167  Just can't resist this episode
+-246.14439277863102, -262.88635825826674, positive, positive, right
+No.168  Kevin Malone
+-189.16545388721877, -198.36400031324573, positive, positive, right
+No.169  I'm so glad it's back!!!
+-345.8308067594424, -360.07713565567263, positive, positive, right
+No.170  Jim & Pam's relationship
+-592.540233765803, -602.4852802948966, positive, negative, wrong
+No.171  tied for the best Office episode ever.
+-311.37831085381606, -330.17448997601525, positive, positive, right
+No.172  Clubbing and Getting Locked Out
+-349.24559455985036, -372.6801527802364, positive, positive, right
+No.173  Did I Stutter? (#4.12)
+-136.33059792406348, -149.8411827011559, positive, positive, right
+No.174  Job Fair (#4.13)
+-180.0640773503721, -191.3708652807507, positive, positive, right
+No.175  Without a doubt, The Office's best episode
+-832.2127816010981, -870.9069054703905, positive, positive, right
+No.176  Goodbye, Toby (#4.14)
+-519.5867624654289, -562.3138507279883, positive, positive, right
+No.177  One of the best episodes of the series. The two office wise guys are upstaged by the office fool.
+-1102.108460816049, -1170.770346996287, positive, positive, right
+No.178  Season Four
+-641.1881824468308, -653.0664627935156, positive, positive, right
+No.179  bye bye toby!!!
+-233.0326240799368, -240.49708838681835, positive, negative, wrong
+No.180  Toby's Party
+-497.7539954028131, -530.1065790078729, positive, positive, right
+No.181  Irregularities.
+-300.03325310878694, -307.26012764509306, positive, positive, right
+No.182  I Officially Hate Dwight
+-55.60802689758454, -57.674276968093054, positive, positive, right
+No.183  Jim and Pam
+-256.45774179241715, -267.71489869833124, positive, positive, right
+No.184  Jan's Baby
+-292.8015228918386, -312.01481092926366, positive, positive, right
+No.185  Crime Aid (#5.4)
+-169.1194738270728, -184.4933260616193, positive, positive, right
+No.186  Employee Transfer (#5.5)
+-237.64622687293198, -253.82296924553495, positive, positive, right
+No.187  The truck ride
+-120.25208969699948, -118.95788166375343, negative, negative, right
+No.188  Halloween and Bye Holly
+-224.96392897117443, -244.1894060164061, positive, positive, right
+No.189  "BUTTLICKER our....."
+-319.14569744642205, -329.07804338148304, positive, positive, right
+No.190  Customer Survey (#5.6)
+-315.8976568944475, -346.606427087355, positive, positive, right
+No.191  wait til the end
+-992.7276275181883, -1035.9519568746457, positive, positive, right
+No.192  Trip To Winnipeg
+-277.26643254296255, -305.77546512552635, positive, positive, right
+No.193  Michael Hates Toby
+-284.6089137090234, -307.9691289614521, positive, positive, right
+No.194  Kissing Up To Michael
+-392.10731608100843, -436.06986362713997, positive, positive, right
+No.195  Moroccan Party
+-154.93182264157065, -168.42761984863208, positive, positive, right
+No.196  brilliant line from a peripheral charachter
+-148.64487063518678, -162.12140308524116, positive, positive, right
+No.197  Different in a good way
+-135.3728623878325, -140.52958405123158, positive, positive, right
+No.198  Prince Family Paper (#5.12)
+-312.63271871529696, -332.51198994306947, positive, positive, right
+No.199  Not so good
+-144.1466559706217, -139.2996123731248, negative, negative, right
+No.200  Stress Relief
+-382.59568785927036, -406.03424024929, positive, positive, right
+No.201  Funny
+-96.33596382570566, -96.88387443116305, positive, positive, right
+No.202  It'll grow on you
+-322.8269060479119, -323.00636292438963, positive, positive, right
+No.203  One of the top 10 episodes of The Office
+-639.3534671966268, -654.2265638820875, positive, positive, right
+No.204  What the hell is this? This is amazing!
+-512.8992396006989, -523.073610279283, positive, positive, right
+No.205  Comedy at it's best
+-27.03184479793778, -29.535942012661238, positive, positive, right
+No.206  Oh my God
+-169.36812584765266, -182.16600380214715, positive, positive, right
+No.207  Wow
+-81.31241437292844, -81.09440731991263, negative, positive, wrong
+No.208  this episode is my personal favourite
+-94.24646394899689, -94.80800610252554, positive, positive, right
+No.209  Not only the best of the show
+-64.76789009769453, -70.2470417402733, positive, positive, right
+No.210  Dwight's Fire and Roasting Michael
+-657.8215965080711, -700.461662420705, positive, positive, right
+No.211  Better than Dinner Party
+-23.735318038839516, -25.20740406293834, positive, positive, right
+No.212  Lecture Circuit: Part 1 (#5.14)
+-306.6095620641246, -332.3254749622038, positive, positive, right
+No.213  It is your birthday.
+-71.86288270457446, -76.33110955272855, positive, positive, right
+No.214  everything felt off the mark
+-339.0952337943333, -345.6188721108216, positive, negative, wrong
+No.215  Perhaps not as funny, but a great step in the right direction
+-1057.9602486130782, -1055.476894238605, negative, positive, wrong
+No.216  Just watch opening sciene
+-49.000404311322555, -51.094650212425705, positive, positive, right
+No.217  Blood Drive (#5.16)
+-245.94041441054927, -260.7218949815437, positive, positive, right
+No.218  Golden Ticket (#5.17)
+-219.34441244590658, -231.07173439541629, positive, positive, right
+No.219  Ideas and Credit
+-543.7327284335166, -578.9091337804065, positive, positive, right
+No.220  Looks like Michael had a few tickets up his sleeve!
+-839.2283499403056, -881.0545462681567, positive, negative, wrong
+No.221  Charles Miner
+-253.06560632657929, -279.13620056333923, positive, positive, right
+No.222  Two Weeks (#5.19)
+-313.9661885492867, -330.1052886354942, positive, positive, right
+No.223  Surprising showcase for Michael Scott
+-763.7105850577539, -785.3757526873892, positive, positive, right
+No.224  Dream Team (#5.20
+-258.14505212677415, -285.4799679650337, positive, positive, right
+No.225  Two Headed Snake
+-96.06905949054914, -99.57740529932323, positive, negative, wrong
+No.226  New Workspace In A Closet
+-443.11270653167776, -482.00803105782455, positive, positive, right
+No.227  Outro clip.
+-141.28381712662483, -143.97188348485886, positive, positive, right
+No.228  Broke (#5.23)
+-263.4455711823014, -296.06789970186384, positive, positive, right
+No.229  Fulfilling episode apparently!
+-59.90066295810969, -61.44731154143362, positive, positive, right
+No.230  Best Episode so far.
+-125.60981847419978, -136.89114885234122, positive, positive, right
+No.231  Michael Scott!
+-8.372358479393998, -10.973634194792751, positive, positive, right
+No.232  Slayed.
+-796.6342592627726, -865.1347304373031, positive, positive, right
+No.233  Incredible Writing
+-55.96537138780822, -56.70608437191762, positive, positive, right
+No.234  Back together again!
+-590.0451293437851, -613.1745900598257, positive, positive, right
+No.235  Casual Friday (#5.24)
+-306.43440991521464, -327.9711449872247, positive, positive, right
+No.236  Pam + Ryan vs. Sales Team
+-252.6152926472522, -281.0243186026628, positive, positive, right
+No.237  Cafe Disco (#5.25)
+-331.5427784336155, -361.2970752139512, positive, positive, right
+No.238  So happy
+-83.91298199370772, -92.77436800790954, positive, positive, right
+No.239  Season 5: many ups and downs but overall a great season
+-416.7456922782178, -425.9214602224785, positive, positive, right
+No.240  Outdoor Event
+-354.28444623083897, -376.11966514241607, positive, positive, right
+No.241  Revenge Time
+-237.7810901112717, -255.4417392531407, positive, positive, right
+No.242  Season 5, the best season of The Office
+-54.531358456681055, -60.33190213355595, positive, positive, right
+No.243  Love this episode !!
+-58.92103658027523, -63.26540250347681, positive, positive, right
+No.244  Gossip (#6.1)
+-316.33998354776804, -338.09483709158394, positive, positive, right
+No.245  The Office 'Gossip' Review
+-2068.758193530303, -2124.6968139174483, positive, negative, wrong
+No.246  The Meeting (#6.2)
+-272.2897155155994, -290.6195421964848, positive, positive, right
+No.247  Jim As Co-Manager
+-152.12184038350688, -161.1377614100289, positive, positive, right
+No.248  Beautiful episode!
+-568.6465851628718, -606.3900992226389, positive, positive, right
+No.249  The Office 'Niagra Pt. 1 and 2' Review
+-1240.286255350739, -1290.0909456265672, positive, positive, right
+No.250  Beautiful
+-94.25637212091928, -100.38281923950183, positive, positive, right
+No.251  Niagara: Part 1 (#6.4)
+-308.1212580547754, -335.10920275902504, positive, positive, right
+No.252  Pregnancy Sickness and Wedding
+-690.5036989860295, -720.3087995540732, positive, positive, right
+No.253  Not the best, but most special episode
+-53.81098143380253, -54.77253234361007, positive, positive, right
+No.254  Perfection!!!!!!!
+-41.71239031565718, -43.038767481352345, positive, positive, right
+No.255  Review of Part 1 and 2.... Beautiful
+-51.89992032791447, -59.98283783283488, positive, positive, right
+No.256  Best Comedy Episode in TV History!
+-76.91016896900098, -82.83964677350579, positive, positive, right
+No.257  ICONIC!!!
+-39.03103727760475, -40.031298794173196, positive, positive, right
+No.258  I like but...
+-52.967007341394435, -54.358098565519136, positive, negative, wrong
+No.259  Niagara Falls Wedding
+-600.6062219912332, -637.4903681127245, positive, positive, right
+No.260  Underrated
+-301.96354139081177, -312.7176039294803, positive, positive, right
+No.261  The Office 'Mafia' Review
+-952.5365510489391, -977.4056117522263, positive, negative, wrong
+No.262  Content lost
+-462.4335213326785, -464.9788855328977, positive, negative, wrong
+No.263  Boring, silly episode
+-122.92025358858652, -122.00488931509362, negative, negative, right
+No.264  Silly plot, not the office
+-90.44223828055235, -91.02309366162747, positive, negative, wrong
+No.265  The Lover (#6.7)
+-181.0702744426237, -194.7104101278433, positive, positive, right
+No.266  Writers' block
+-124.8724931259128, -123.31551513221626, negative, negative, right
+No.267  Mocking
+-429.9756004142772, -462.5837071783404, positive, positive, right
+No.268  Double Date (#6.9)
+-230.87807578046832, -244.88073135329682, positive, positive, right
+No.269  Murder (#6.10)
+-221.64309607201528, -238.04772360339533, positive, positive, right
+No.270  Totally rotten
+-126.35092530009699, -120.22046955811689, negative, negative, right
+No.271  WOW!!!
+-205.76345599463306, -202.86700915574374, negative, negative, right
+No.272  Game Distraction
+-166.67817758624824, -178.4594975017271, positive, positive, right
+No.273  Angry Shareholders
+-238.74843707406325, -257.861957832098, positive, positive, right
+No.274  Hardest half an hour to watch in TV
+-60.0497292396697, -59.78323771311528, negative, positive, wrong
+No.275  The cringe adds to the comedy
+-143.91311214468968, -140.5569361118677, negative, positive, wrong
+No.276  Hard to watch, but hilarious
+-131.08203602829508, -129.17325372683126, negative, positive, wrong
+No.277  Taking Jim Down and Tuition
+-415.88368193824056, -448.1321034955599, positive, positive, right
+No.278  Worst episode of The Office.
+-389.28635594243195, -383.1781944357974, negative, negative, right
+No.279  Illogical
+-260.63848747733, -269.33731946007083, positive, negative, wrong
+No.280  Secret Santa (#6.13)
+-133.151051141665, -144.35748908991036, positive, positive, right
+No.281  Not filled with laughs, but a needed episode.
+-386.3375257667189, -393.5213331578521, positive, negative, wrong
+No.282  Great episode
+-456.0271016064343, -474.63912086249, positive, positive, right
+No.283  The Banker (#6.14)
+-175.81532455170753, -181.28757647599937, positive, negative, wrong
+No.284  Fabulous
+-113.37561015160591, -113.21902605975839, negative, positive, wrong
+No.285  The Best of...
+-196.38027351997147, -199.92956636753271, positive, negative, wrong
+No.286  Filler
+-138.87996831103334, -141.60771812706227, positive, negative, wrong
+No.287  Looking back, some of these old clips on 'The Office', were probably a big refresher.
+-1147.9295371098503, -1155.60979739444, positive, negative, wrong
+No.288  Risky
+-78.02737471160516, -77.50856909166545, negative, negative, right
+No.289  I hate it
+-51.13953233105089, -49.61147704372887, negative, negative, right
+No.290  Perfect
+-35.86345474712411, -40.63743459774351, positive, positive, right
+No.291  Despite what others seem to think..
+-630.919860744072, -645.9137413921405, positive, positive, right
+No.292  Manager and Salesman (#6.16)
+-220.01647541482535, -238.71463769518215, positive, positive, right
+No.293  Pam ruined this episode
+-63.69088521124005, -63.869274279614096, positive, negative, wrong
+No.294  The Delivery: Part 2 (#6.18)
+-314.21355273475035, -341.14827651503396, positive, positive, right
+No.295  St. Patrick's Day (#6.19)
+-136.2914636145993, -144.40548550236377, positive, positive, right
+No.296  WTF
+-66.11499023620881, -66.14036204692403, positive, negative, wrong
+No.297  Great episode - never cross the boss
+-382.65628646100015, -402.7754881415027, positive, positive, right
+No.298  I want to like this episode...
+-522.711465335617, -536.8203533596935, positive, negative, wrong
+No.299  Happy Hour (#6.21)
+-331.54282833821895, -363.9045287277938, positive, positive, right
+No.300  Attempt to manipulate Michael Scott backfires
+-753.649221366362, -785.7621512910796, positive, positive, right
+No.301  Why don't I have my own TV show!!
+-114.61295115789368, -115.88422678170394, positive, negative, wrong
+No.302  This Episode Perfectly Explains Why I Hate Erin
+-691.5449157617236, -687.8127630892358, negative, negative, right
+No.303  Erin Finds Out Angela Was Andy's Former Fiancee
+-809.6182553961079, -865.0274120915216, positive, positive, right
+No.304  Body Language (#6.23)
+-198.2837115510212, -220.15893226492855, positive, positive, right
+No.305  Donna The Cheater and Darryl Pranks Andy
+-362.6640604877293, -391.8344016829644, positive, positive, right
+No.306  Drama
+-645.0949376586674, -671.7217823740176, positive, positive, right
+No.307  Season Six
+-1454.1020884141674, -1440.6404572920367, negative, positive, wrong
+No.308  Best episode ever.
+-93.26097725578423, -94.43206978622703, positive, positive, right
+No.309  Great Intro
+-308.45529014807397, -314.6713642407562, positive, positive, right
+No.310  Luke, Michael's Half-Sister's Son
+-157.60248529091092, -166.65528360716482, positive, positive, right
+No.311  Counseling (#7.2)
+-203.14635209823226, -225.66556919152217, positive, positive, right
+No.312  Best Episode In Years
+-687.86458112441, -704.3412004055674, positive, positive, right
+No.313  Wow
+-132.08391028733442, -139.7340163053762, positive, positive, right
+No.314  Andy's Amazing Show and Angela's Beauty
+-699.6840914226316, -751.7301686644977, positive, positive, right
+No.315  One of the funniest episodes of The Office you'll ever see
+-358.2149923691922, -377.5260660677407, positive, positive, right
+No.316  Cold Sore and Andy's Sex Ed
+-270.45964341826596, -292.77751391045456, positive, positive, right
+No.317  Half and half!!
+-43.78706854286242, -44.72991171854638, positive, negative, wrong
+No.318  Weak Late-season episode
+-414.7943979912014, -409.4794690271951, negative, negative, right
+No.319  Costume Contest (#7.6)
+-147.19593395595336, -159.60703969237454, positive, positive, right
+No.320  Christening (#7.7)
+-137.18315982489509, -146.1847648628634, positive, positive, right
+No.321  Another un-funny the Office installment
+-314.5224549904348, -322.05035661344994, positive, negative, wrong
+No.322  Satisfied, despite the commission cap goof
+-116.85842200421789, -126.5192484652363, positive, positive, right
+No.323  WUPHF.com (#7.9)
+-355.17275143149317, -386.65757587970063, positive, positive, right
+No.324  Not Great
+-848.7211178992615, -868.1161210913777, positive, negative, wrong
+No.325  Finally!
+-1671.0549846148294, -1724.1574674543635, positive, positive, right
+No.326  Accurate predictions about China
+-112.23810547414509, -112.02836248423058, negative, positive, wrong
+No.327  nice job!
+-365.86286460805735, -388.8626724874642, positive, positive, right
+No.328  The perfect episode
+-136.0665490676153, -149.1716540065918, positive, positive, right
+No.329  Dwight went too far
+-317.9912335442102, -323.39365485985303, positive, negative, wrong
+No.330  Worst Christmas episode of the series
+-380.3637635952032, -401.32096110607495, positive, negative, wrong
+No.331  Ultimatum (#7.12)
+-180.4075033505969, -201.41349341514368, positive, positive, right
+No.332  Holly's Ultimatum and Roller Skating
+-333.0509511947543, -356.30542912775644, positive, positive, right
+No.333  I love the office crossover in the beggining
+-45.922040620774105, -47.869744336074135, positive, positive, right
+No.334  Forgotten Episode
+-386.7650807717893, -411.04290986419767, positive, positive, right
+No.335  One of the funniest episodes.
+-759.4589545458866, -782.2955874916506, positive, positive, right
+No.336  PDA (#7.15)
+-223.24364048567338, -234.91282628066142, positive, negative, wrong
+No.337  One of the best episodes of the entire series.
+-449.2511939146619, -467.8606351994739, positive, positive, right
+No.338  Michael Scott stars in a true master piece.
+-227.6303760168433, -233.61900002226005, positive, positive, right
+No.339  The Best Michael Scott Episode
+-91.89791070906617, -95.59839764732064, positive, positive, right
+No.340  Three words. BEST. EPISODE. EVER.
+-35.65981062038891, -38.060154627824495, positive, positive, right
+No.341  A movie that would have you grip tightly in your seats
+-35.852197592599474, -38.77560756589874, positive, positive, right
+No.342  Fantastic!!!
+-93.68724456121753, -98.77388207820486, positive, positive, right
+No.343  the best thriller i ever saw in my whole life time!!!!!!!!!
+-98.86711942415393, -104.07739671473038, positive, positive, right
+No.344  Jumping the shark
+-112.45916560725252, -110.85698662009611, negative, negative, right
+No.345  Probably My favourite episode
+-115.08935164761384, -125.96044933720741, positive, positive, right
+No.346  I can't believe I just cried...
+-792.018447815548, -824.7996960323728, positive, positive, right
+No.347  My heart
+-239.71798306878324, -255.0394536153871, positive, positive, right
+No.348  honestly, this should be rated as the best episode of the office.
+-104.27148113762897, -107.37426786050999, positive, positive, right
+No.349  My Heary Melts
+-63.65259862042343, -68.07391391154547, positive, positive, right
+No.350  WoooW
+-55.55105967555977, -56.40689847498435, positive, positive, right
+No.351  The beginning of the end (no offense)
+-299.1542825947211, -297.6973082102177, negative, negative, right
+No.352  Doesn't work at all
+-48.571208753046605, -48.87108271168995, positive, negative, wrong
+No.353  Emotional but still hilarious
+-527.1676001414706, -554.0438118849618, positive, positive, right
+No.354  Love it!
+-85.67576555009822, -93.75636910248426, positive, positive, right
+No.355  Emotional
+-79.4235783446042, -85.11232962141096, positive, positive, right
+No.356  A Great Way for Steve (Michael) to Exit!
+-383.2337954289756, -398.5187695748433, positive, positive, right
+No.357  Goodbye, Office
+-731.8045245146097, -759.930711025344, positive, positive, right
+No.358  Now that is a send off....
+-118.60341789784907, -122.73813388383564, positive, positive, right
+No.359  One of The Office's Best Episodes/ One of The Office's Worst Episodes
+-1110.9763856454133, -1167.7519110633534, positive, positive, right
+No.360  Full of tears
+-93.12785402359877, -98.2433036617243, positive, positive, right
+No.361  I cried like a baby
+-78.51599999936975, -81.14861001244279, positive, positive, right
+No.362  Simply beautiful
+-541.917606328036, -570.6487416591124, positive, positive, right
+No.363  Goodbye, Michael
+-24.637772414494894, -26.432784823531946, positive, positive, right
+No.364  The Greatest Episode in all of Media
+-1107.1241172039913, -1176.1792581361185, positive, positive, right
+No.365  Totally unexpected
+-380.87949330987794, -405.7415091591697, positive, positive, right
+No.366  Best episode
+-10.153903355212336, -12.485091698866647, positive, positive, right
+No.367  Masterful
+-403.7189793943546, -433.0386453835635, positive, positive, right
+No.368  Departure of Michael Scott Effectively ended the Series
+-586.0523069264183, -541.838655238271, negative, negative, right
+No.369  The Inner Circle (#7.22)
+-157.10901248446845, -164.70249501402768, positive, positive, right
+No.370  Michael's Replacement
+-732.5849479099692, -773.2200330680652, positive, positive, right
+No.371  Dwight K. Schrute, (Acting) Manager (#7.23)
+-216.02209437718776, -228.4202663061735, positive, positive, right
+No.372  Dwight As Manager
+-417.7383720658692, -445.8199942904894, positive, positive, right
+No.373  Jim is an idiot!
+-236.30606682096305, -240.36706944267868, positive, negative, wrong
+No.374  Search Committee (#7.24)
+-159.06206222843028, -160.57047184659666, positive, positive, right
+No.375  I love this show but...
+-214.46138181105158, -207.50901888096078, negative, negative, right
+No.376  Season 8 is the Toby of this TV series.
+-384.824355857361, -374.97188273642115, negative, negative, right
+No.377  The List (#8.1)
+-246.49334419215316, -258.41279243320037, positive, positive, right
+No.378  Very funny premiere
+-546.3362225260134, -573.7646789848579, positive, positive, right
+No.379  Michael left now everyone acting weird.
+-116.45603048730916, -121.61464487348066, positive, negative, wrong
+No.380  I Miss Michael!
+-210.45591199895134, -226.99396132169537, positive, positive, right
+No.381  The Incentive (#8.2)
+-175.05615848097617, -184.43086523325852, positive, positive, right
+No.382  One of Andy's better episodes
+-207.37206905510828, -210.04276938705675, positive, positive, right
+No.383  Not the same without Micheal
+-94.53082020620752, -96.53326630768926, positive, negative, wrong
+No.384  Mose - the GOAT
+-42.74366961115586, -45.5777372370234, positive, positive, right
+No.385  Yet another Andy plot hole
+-447.5535950233929, -443.43806850990546, negative, negative, right
+No.386  Thumbs Up
+-247.14665181166276, -253.82622282074996, positive, positive, right
+No.387  This isn't The Office that I know and love.
+-366.55102285117334, -364.3185402865965, negative, negative, right
+No.388  Garden Party At Schrute Farms
+-469.4672074900793, -491.9728588439849, positive, positive, right
+No.389  Spooked (#8.5)
+-231.99526159354045, -239.75397494961047, positive, negative, wrong
+No.390  A Halloween without Micheal?
+-53.26367420722524, -55.2244798309934, positive, negative, wrong
+No.391  More subtlety!
+-901.3851812765917, -913.0881433314275, positive, positive, right
+No.392  Simply Ridiculous Plot
+-1162.5192965334625, -1174.3920912606425, positive, negative, wrong
+No.393  Dwight's Automatic Mistake Notifier
+-191.29129161852785, -204.63460936030359, positive, positive, right
+No.394  Grabbing Jim's Crotch
+-633.3134213308722, -670.5904957307434, positive, positive, right
+No.395  That is really James Spader on Harmonica
+-732.9714659163448, -740.9754079563007, positive, positive, right
+No.396  Worst episode of the series.
+-452.2928979525654, -453.2746580869695, positive, negative, wrong
+No.397  You can skip this episode
+-101.49098322432313, -105.39303084257645, positive, negative, wrong
+No.398  Gettysburg (#8.8)
+-181.48548001234704, -186.10570628492698, positive, positive, right
+No.399  Field Trip
+-222.06197446851104, -229.3020504431105, positive, negative, wrong
+No.400  Mrs. California (#8.9)
+-213.6432801453586, -230.0635906219119, positive, positive, right
+No.401  Hilarious but wait ! are'nt we forgetting something???
+-368.9004320049436, -375.86922835659885, positive, positive, right
+No.402  Christmas Wishes (#8.10)
+-172.36837939018653, -194.34646998923208, positive, positive, right
+No.403  Andy's New GF Jessica
+-359.5428130612913, -375.1212150928631, positive, positive, right
+No.404  Pleeeeeease just end the show!
+-318.62974269850775, -317.04473264751203, negative, negative, right
+No.405  Pool Party (#8.12)
+-219.79458386707466, -230.76119125466522, positive, positive, right
+No.406  Jury Duty (#8.13)
+-220.98458497357512, -233.0873224683185, positive, positive, right
+No.407  Philips
+-533.6520597127003, -569.2747703857872, positive, positive, right
+No.408  Amazing
+-96.85116913280561, -100.74535899736875, positive, positive, right
+No.409  Dwight Schrute is a living legend!
+-68.50363337313286, -74.48236628507955, positive, positive, right
+No.410  May be the funniest episode.
+-167.2961179828336, -183.1259061561769, positive, positive, right
+No.411  Dwight's Emergency
+-189.58132497266476, -201.08447109869056, positive, positive, right
+No.412  After Hours (#8.16)
+-212.22556219688474, -232.99801365487693, positive, positive, right
+No.413  The Art of Seduction
+-219.5666056536869, -231.82418344915106, positive, positive, right
+No.414  Simply, the best of the season
+-753.5033897452778, -776.2681320757001, positive, positive, right
+No.415  Last Day in Florida (#8.18)
+-195.22068444663597, -210.30961222384198, positive, positive, right
+No.416  Saving Dwight
+-408.5303345317616, -436.2262621651978, positive, positive, right
+No.417  Sorry oscar
+-388.2841901780349, -387.3101364496228, negative, negative, right
+No.418  Nellie killed the office
+-28.829161189406996, -27.68040035663143, negative, negative, right
+No.419  The tipping point
+-316.7874700865178, -304.8184508763228, negative, negative, right
+No.420  Worst episode of this entire series
+-70.48400334430397, -65.84231697667154, negative, negative, right
+No.421  Really?!?
+-265.71457750772726, -263.1970392709172, negative, negative, right
+No.422  The Nadir of the Series
+-261.06341154051063, -249.49249772913248, negative, negative, right
+No.423  THE W
+-20.76464424939642, -18.41383014037623, negative, negative, right
+No.424  Pointless in retrospect
+-314.18299597145557, -312.7084946748212, negative, negative, right
+No.425  Terrible
+-66.79324337411163, -59.91728695199974, negative, negative, right
+No.426  Why?
+-185.07763322564372, -176.21958043910112, negative, negative, right
+No.427  Nellie and Andy
+-346.28535013942457, -360.7664280648968, positive, negative, wrong
+No.428  Boohoo
+-135.99067133178772, -134.42786846814343, negative, negative, right
+No.429  Hoping it gets better
+-156.637401282664, -159.4824187996959, positive, negative, wrong
+No.430  Breaking Up With Jessica and Nellie's Party
+-251.0538304199148, -258.790706168181, positive, positive, right
+No.431  Okay call the damn cops...
+-409.4706492896491, -412.10328805395596, positive, negative, wrong
+No.432  worst episode
+-118.73491715564658, -110.78689152160823, negative, negative, right
+No.433  Misrepresentation of comedy
+-1033.6861493777296, -1016.6189340448184, negative, negative, right
+No.434  *shakes head*
+-371.51443426767156, -374.8045973769427, positive, negative, wrong
+No.435  Yikes..
+-100.80410857388782, -105.83821143026898, positive, negative, wrong
+No.436  Absolutely terrible
+-75.05833968584123, -70.65449924628285, negative, negative, right
+No.437  Just no
+-70.46842044729189, -67.87887747269845, negative, negative, right
+No.438  Skip it for your own sake
+-39.68708956198371, -38.660008490221394, negative, negative, right
+No.439  Good Bye OfficeUs. This is where I leave you.
+-309.0697444450636, -302.99360481075297, negative, negative, right
+No.440  Absolutely dreadful
+-66.20237443594579, -64.63771119544397, negative, negative, right
+No.441  One of the worst
+-487.20462269790755, -479.01156728734924, negative, negative, right
+No.442  Should've been the end of Erin and Andy
+-65.28266724540467, -64.30410072621731, negative, negative, right
+No.443  Sometimes it goes up, but this time it's definitely down.
+-814.1979552619705, -807.064000403793, negative, negative, right
+No.444  Seriously!?!
+-186.13720625815247, -185.06813426668657, negative, negative, right
+No.445  Andy At The Fundraiser
+-164.79103485879003, -165.2040264448622, positive, positive, right
+No.446  Absolutely hilarious
+-382.762893522706, -393.1411296249205, positive, positive, right
+No.447  Hilarious.
+-23.063879439480203, -25.16427349806844, positive, positive, right
+No.448  Free Family Portrait Studio (#8.24)
+-232.4151952076784, -255.93072465883216, positive, positive, right
+No.449  End to the worst season of The Office - terrible Cold Open
+-225.5898675779495, -222.47022278032387, negative, negative, right
+No.450  So long, farewell, auf Wiedersehen, adieu Adieu, adieu, to yieu and yieu and yieu
+-179.0619255550549, -176.60384333632197, negative, negative, right
+No.451  Niceeee
+-181.43257712906077, -187.68535710819444, positive, positive, right
+No.452  a little disappointing
+-973.0326982056332, -987.6090103459094, positive, negative, wrong
+No.453  Jumping the shark
+-113.0242633185887, -113.64680969082224, positive, negative, wrong
+No.454  After The Summer
+-255.40104684496706, -273.63083885525407, positive, positive, right
+No.455  Too many IMBD cry babies about this season.
+-275.2838065070761, -274.6161665342074, negative, negative, right
+No.456  Roy's Wedding (#9.2)
+-197.31020387590894, -208.8240409662986, positive, positive, right
+No.457  Asian Jim
+-52.17151510627858, -51.574111210437685, negative, negative, right
+No.458  Andy's Ancestry (#9.3)
+-227.94572963964018, -243.05542526774138, positive, positive, right
+No.459  Work Bus (#9.4)
+-171.88981255287243, -183.5256221955058, positive, positive, right
+No.460  Suddenly terrible
+-117.2514568471115, -116.82438068320975, negative, negative, right
+No.461  Too damn much Andy...
+-182.31633464166134, -181.79529291963453, negative, negative, right
+No.462  Not bad but here's the problem
+-251.6019372083255, -248.15530429620912, negative, negative, right
+No.463  Here Comes Treble (#9.5)
+-238.73431805793908, -243.92837490507114, positive, positive, right
+No.464  Laughed out loud
+-336.4525069668421, -347.7722966705504, positive, negative, wrong
+No.465  The Boat (#9.6)
+-223.5673501117245, -239.6026565338101, positive, positive, right
+No.466  Stop using Steve Carell as an excuse
+-1769.4144582892454, -1719.7085218130514, negative, negative, right
+No.467  The Whale (#9.7)
+-209.3471461758008, -232.16014150417553, positive, positive, right
+No.468  Cliffhangers
+-262.08898943772414, -291.1726312668812, positive, positive, right
+No.469  A perfect collection of jokes
+-241.40688306089078, -249.567900188706, positive, positive, right
+No.470  I was laughing throughout the whole episode...
+-91.55343042455156, -91.56168951184031, positive, positive, right
+No.471  Awkward humour done right
+-29.377028084853336, -30.92223637378113, positive, positive, right
+No.472  I died when darryl fall 
+-51.58041251424832, -57.79040231488029, positive, positive, right
+No.473  Last Christmas for The Office
+-402.1336834466325, -419.4626024633207, positive, positive, right
+No.474  Dwight's Christmas Traditions
+-221.00731753236633, -242.21111274031446, positive, positive, right
+No.475  This is one of my favorite episodes ever
+-141.29966526963887, -150.48716593391075, positive, positive, right
+No.476  Good episode with a moment of magic
+-62.94793071045342, -68.8761027672366, positive, positive, right
+No.477  Terrible embedded marketing
+-70.5661850038998, -78.10829169732985, positive, negative, wrong
+No.478  Tension
+-216.23430754291223, -229.62082605575588, positive, positive, right
+No.479  Why?
+-64.22073676323406, -61.971382391949625, negative, negative, right
+No.480  Vandalism (#9.14)
+-326.49251191580413, -343.242696678911, positive, positive, right
+No.481  Bringing in the Documentary Crew is Terrible
+-55.740807450820505, -53.557320720766825, negative, negative, right
+No.482  What they did to Andy is the most stupid thing ever
+-904.4661057746086, -914.1042750861754, positive, negative, wrong
+No.483  Couples Discount (#9.15)
+-244.14261906363927, -255.1822186208094, positive, negative, wrong
+No.484  I'm upset that andy is back
+-102.40259125275435, -102.32805523437997, negative, negative, right
+No.485  Andy proves He just can't carry the show
+-151.10758953499553, -149.7094380960018, negative, negative, right
+No.486  Unhappy Valentine's Day
+-347.8317210140507, -367.3174424538528, positive, positive, right
+No.487  So good yet so bad
+-181.9191012379394, -183.09097927658877, positive, negative, wrong
+No.488  Almost perfect
+-112.83227636627139, -117.03939302624573, positive, positive, right
+No.489  Thanks for ruining the show
+-167.12599359620148, -161.3528798356879, negative, negative, right
+No.490  Philly and Hiring Exes
+-283.778874601718, -296.2432873469977, positive, positive, right
+No.491  The Farm (#9.17)
+-206.6909858858237, -212.68725039596572, positive, positive, right
+No.492  Great Episode in an otherwise disappointing season!!!
+-962.1067010263722, -971.939881610982, positive, positive, right
+No.493  An attempt to present Dwight as a semi lovable hipster before a spin off. It doesn't work.
+-164.70855353206727, -165.60191587130225, positive, negative, wrong
+No.494  SKIP EPISODE!
+-95.37562579728515, -91.320431167641, negative, negative, right
+No.495  Still laughing out loud
+-138.1353829439477, -141.29095182561323, positive, positive, right
+No.496  Promos (#9.18)
+-294.96232235185795, -314.73671815611624, positive, positive, right
+No.497  Not danish
+-121.5005451847356, -116.23248075934973, negative, negative, right
+No.498  Stairmageddon (#9.19)
+-210.73645480281877, -228.95871463714914, positive, positive, right
+No.499  Ha ha ha ha ha
+-156.33203635316193, -162.02235037169987, positive, positive, right
+No.500  Most touching Ending in the show
+-257.90304814408717, -274.5176338088544, positive, positive, right
+No.501  Paper Airplane (#9.20)
+-227.94091718451043, -253.85780054455205, positive, positive, right
+No.502  That ending was perfect
+-144.1412438554607, -154.42895453185795, positive, positive, right
+No.503  Not a great way to try new things, producers...
+-492.33948824465756, -485.0264884945609, negative, negative, right
+No.504  Acting and Airplane Contest
+-488.87002368533194, -507.0046380828035, positive, positive, right
+No.505  Meaningful
+-84.43011617223503, -92.47771872240678, positive, positive, right
+No.506  Livin' the Dream (#9.21)
+-261.75815194466725, -290.30271009786674, positive, positive, right
+No.507  The best episode without Michael
+-128.70481266654528, -143.08831758304984, positive, positive, right
+No.508  CHRIS-TOE-FUR!!!
+-35.80824471074368, -41.60871025765957, positive, positive, right
+No.509  The show's weakest link finally steps down.
+-1269.2327170580606, -1320.534663193803, positive, negative, wrong
+No.510  Back to the Roots
+-83.87796507398232, -92.30392353425444, positive, positive, right
+No.511  Funny, emotional, heartwarming, for what could you ask more?
+-456.6241150843682, -493.02099289780665, positive, positive, right
+No.512  I'm not crying you're crying!
+-93.30483604559372, -102.66006975822523, positive, positive, right
+No.513  A perfect way to put it
+-753.4808849852919, -788.1646487438306, positive, positive, right
+No.514  I created an account just to show how much I thought of this episode.
+-347.5373061309304, -356.1701463089138, positive, positive, right
+No.515  A sincere thanks
+-36.75709294477001, -41.346842299175236, positive, positive, right
+No.516  Television's Finest Hour
+-364.909091790849, -368.4789064484925, positive, positive, right
+No.517  The best finale to the best show I've ever seen
+-162.23690601369432, -172.53662525491438, positive, positive, right
+No.518  It was so good that I cried..
+-238.45859912344756, -241.29271118204431, positive, positive, right
+No.519  Amazing finale to an amazing show.
+-593.9009223687048, -618.8418582437945, positive, positive, right
+No.520  Right in the feels.
+-82.98905547194887, -85.10526965630163, positive, positive, right
+No.521  Best way to end the best show
+-442.2617520027761, -453.56865764301773, positive, positive, right
+No.522  Was crying the whole time
+-119.08493652096946, -129.14091479771312, positive, positive, right
+No.523  Perfect Season Finale
+-516.5392490634365, -526.5284517885885, positive, positive, right
+No.524  Perfect Ending
+-381.75887147467427, -398.4456715724189, positive, positive, right
+The prediction correctness is 91.10320284697508%
